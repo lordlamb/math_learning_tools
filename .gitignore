@@ -25,3 +25,8 @@ doc/api/
 
 .flutter-plugins
 .flutter-plugins-dependencies
+.idea/
+.DS_Store
+packages/**/.dart_tool
+packages/**/.flutter-plugins
+packages/**/.flutter-plugins-dependencies
